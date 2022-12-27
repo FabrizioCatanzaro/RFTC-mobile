@@ -1,2 +1,2 @@
-# RFTC-mobile
-E-commerce realizado para el challenge final de MindHub. Hecho en grupo trabajando con metodología Agile conformado por: Nehuen Aumedes (lider del equipo), Ignacio Argüello, Maria Belen Alvarez, Maximiliano Pereyra, Nicolas Ojeda, David Chaban y Fabrizio Catanzaro.
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+
